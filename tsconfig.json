@@ -1,0 +1,7 @@
+{
+  "extends": "@akualabs/ts-config",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}
